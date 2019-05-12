@@ -6,5 +6,5 @@ This repo contains the source code for a bot which is capable of Creating conver
 
 The version of the Botframework used to build this demo is : **4.4.3**
 
-**You can find a detailed tutorial about [building it here:](https://doumer.me/proactive-message-bot-in-teams-with-the-botframework-v4-csharp)**
+**You can find a detailed tutorial about [building it here](https://doumer.me/proactive-message-bot-in-teams-with-the-botframework-v4-csharp)**
 
